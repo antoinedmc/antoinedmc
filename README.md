@@ -1,3 +1,4 @@
+![Antoine Demon-Chaine](https://user-images.githubusercontent.com/32196302/136638741-73c6fe8f-990e-4d51-ba47-c5f66ef563c5.png)
 ### Hi there 👋 I'm Antoine
 
 Fullstack engineer from France, passionnate about Web development and big data enthusiast.
