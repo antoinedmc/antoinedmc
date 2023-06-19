@@ -7,6 +7,6 @@ Software engineer from France, passionnate about Web development and big data en
 
 :mortar_board: Studied at [ESILV](https://www.esilv.fr/) engineer school :fr: and [UQAC](https://www.uqac.ca/) university 🇨🇦.
 
-Currently working at [SportsDynamics](https://sportsdynamics.eu/) ⚽.
+Currently working remotly from La Rochelle at [SportsDynamics](https://sportsdynamics.eu/) ⚽.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/antoine-demonchaine/)
